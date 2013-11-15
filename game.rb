@@ -1,3 +1,4 @@
+#created by Kevin Kwon
 puts "CONFUCIUS SAY -> Guess a number between 0 and 100:"
 puts "You have 10 tries. GOOD LUCK!"
 win = rand(100).to_i
