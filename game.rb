@@ -57,6 +57,7 @@ while true
   end
 
   puts "CONFUCIUS SAY GAME OVER STUPID!"
+  puts "The correct number was: #{win}."
   puts "░░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄░░░░░░░
   ░░░░░█░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▀▀▄░░░░
   ░░░░█░░░▒▒▒▒▒▒░░░░░░░░▒▒▒░░█░░░
